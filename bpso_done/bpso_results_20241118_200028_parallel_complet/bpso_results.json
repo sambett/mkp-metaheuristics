@@ -1,0 +1,225 @@
+{
+    "Méthode": "BPSO",
+    "Résultats": {
+        "MKP1": {
+            "BPSO1": {
+                "Meilleure": 141278.0,
+                "Moyenne": 141240.33333333334,
+                "Ecart type": 125.15812221168692
+            },
+            "BPSO2": {
+                "Meilleure": 141278.0,
+                "Moyenne": 141277.33333333334,
+                "Ecart type": 3.590109871423002
+            },
+            "BPSO3": {
+                "Meilleure": 141278.0,
+                "Moyenne": 141188.33333333334,
+                "Ecart type": 225.53984619623697
+            },
+            "BPSO4": {
+                "Meilleure": 141278.0,
+                "Moyenne": 141206.0,
+                "Ecart type": 185.29975715040752
+            }
+        },
+        "MKP2": {
+            "BPSO1": {
+                "Meilleure": 130883.0,
+                "Moyenne": 130850.63333333333,
+                "Ecart type": 64.75928933794405
+            },
+            "BPSO2": {
+                "Meilleure": 130883.0,
+                "Moyenne": 130851.0,
+                "Ecart type": 64.0
+            },
+            "BPSO3": {
+                "Meilleure": 130883.0,
+                "Moyenne": 130851.0,
+                "Ecart type": 64.0
+            },
+            "BPSO4": {
+                "Meilleure": 130883.0,
+                "Moyenne": 130827.66666666667,
+                "Ecart type": 73.65384503804866
+            }
+        },
+        "MKP3": {
+            "BPSO1": {
+                "Meilleure": 95677.0,
+                "Moyenne": 95019.33333333333,
+                "Ecart type": 794.747521054468
+            },
+            "BPSO2": {
+                "Meilleure": 95677.0,
+                "Moyenne": 95370.66666666667,
+                "Ecart type": 427.7657718372936
+            },
+            "BPSO3": {
+                "Meilleure": 95677.0,
+                "Moyenne": 95017.23333333334,
+                "Ecart type": 638.9652407517085
+            },
+            "BPSO4": {
+                "Meilleure": 95677.0,
+                "Moyenne": 94776.83333333333,
+                "Ecart type": 820.041465753748
+            }
+        },
+        "MKP4": {
+            "BPSO1": {
+                "Meilleure": 119337.0,
+                "Moyenne": 118584.8,
+                "Ecart type": 1355.280866339766
+            },
+            "BPSO2": {
+                "Meilleure": 119337.0,
+                "Moyenne": 119328.7,
+                "Ecart type": 44.69686789921639
+            },
+            "BPSO3": {
+                "Meilleure": 119337.0,
+                "Moyenne": 118791.4,
+                "Ecart type": 1250.7493647143433
+            },
+            "BPSO4": {
+                "Meilleure": 119337.0,
+                "Moyenne": 118843.0,
+                "Ecart type": 1086.9559328694056
+            }
+        },
+        "MKP5": {
+            "BPSO1": {
+                "Meilleure": 98796.0,
+                "Moyenne": 97240.56666666667,
+                "Ecart type": 1882.9183144493786
+            },
+            "BPSO2": {
+                "Meilleure": 98796.0,
+                "Moyenne": 98527.63333333333,
+                "Ecart type": 939.2838223289534
+            },
+            "BPSO3": {
+                "Meilleure": 98796.0,
+                "Moyenne": 97886.9,
+                "Ecart type": 1592.4691802355235
+            },
+            "BPSO4": {
+                "Meilleure": 98796.0,
+                "Moyenne": 98185.93333333333,
+                "Ecart type": 1392.635581271074
+            }
+        },
+        "MKP6": {
+            "BPSO1": {
+                "Meilleure": 130623.0,
+                "Moyenne": 130414.33333333333,
+                "Ecart type": 195.2218111675936
+            },
+            "BPSO2": {
+                "Meilleure": 130623.0,
+                "Moyenne": 130467.0,
+                "Ecart type": 191.0601999370879
+            },
+            "BPSO3": {
+                "Meilleure": 130623.0,
+                "Moyenne": 130396.33333333333,
+                "Ecart type": 281.87861847886853
+            },
+            "BPSO4": {
+                "Meilleure": 130623.0,
+                "Moyenne": 130423.5,
+                "Ecart type": 230.96302012804273
+            }
+        },
+        "MKP7": {
+            "BPSO1": {
+                "Meilleure": 1062646.0,
+                "Moyenne": 1041702.2666666667,
+                "Ecart type": 6590.193421204639
+            },
+            "BPSO2": {
+                "Meilleure": 1060421.0,
+                "Moyenne": 1050407.6,
+                "Ecart type": 5225.3049901417235
+            },
+            "BPSO3": {
+                "Meilleure": 1050088.0,
+                "Moyenne": 1035340.9333333333,
+                "Ecart type": 7978.947277819439
+            },
+            "BPSO4": {
+                "Meilleure": 1061742.0,
+                "Moyenne": 1046656.9333333333,
+                "Ecart type": 8308.773162279871
+            }
+        },
+        "MKP8": {
+            "BPSO1": {
+                "Meilleure": 499698.0,
+                "Moyenne": 451846.4666666667,
+                "Ecart type": 26472.577292654292
+            },
+            "BPSO2": {
+                "Meilleure": 508240.0,
+                "Moyenne": 458900.6666666667,
+                "Ecart type": 18482.3897883604
+            },
+            "BPSO3": {
+                "Meilleure": 458480.0,
+                "Moyenne": 408747.6666666667,
+                "Ecart type": 28072.228814652786
+            },
+            "BPSO4": {
+                "Meilleure": 514800.0,
+                "Moyenne": 452681.26666666666,
+                "Ecart type": 27008.392090772246
+            }
+        },
+        "MKP9": {
+            "BPSO1": {
+                "Meilleure": 7504.0,
+                "Moyenne": 7304.566666666667,
+                "Ecart type": 129.9981239180867
+            },
+            "BPSO2": {
+                "Meilleure": 7578.0,
+                "Moyenne": 7357.033333333334,
+                "Ecart type": 109.49839674118013
+            },
+            "BPSO3": {
+                "Meilleure": 7514.0,
+                "Moyenne": 7186.333333333333,
+                "Ecart type": 162.12553435189932
+            },
+            "BPSO4": {
+                "Meilleure": 7501.0,
+                "Moyenne": 7324.833333333333,
+                "Ecart type": 128.30668554504695
+            }
+        },
+        "MKP10": {
+            "BPSO1": {
+                "Meilleure": 8583.0,
+                "Moyenne": 8483.366666666667,
+                "Ecart type": 46.832669034434595
+            },
+            "BPSO2": {
+                "Meilleure": 8616.0,
+                "Moyenne": 8519.833333333334,
+                "Ecart type": 48.486481506589946
+            },
+            "BPSO3": {
+                "Meilleure": 8576.0,
+                "Moyenne": 8473.066666666668,
+                "Ecart type": 53.18266217063184
+            },
+            "BPSO4": {
+                "Meilleure": 8579.0,
+                "Moyenne": 8493.066666666668,
+                "Ecart type": 49.40710700114126
+            }
+        }
+    }
+}
