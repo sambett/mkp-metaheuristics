@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mkp-metaheuristics/visualization/static/css/main.16702e02.css",
-    "main.js": "/mkp-metaheuristics/visualization/static/js/main.f7675e7d.js",
-    "static/js/453.dd6471ed.chunk.js": "/mkp-metaheuristics/visualization/static/js/453.dd6471ed.chunk.js",
-    "index.html": "/mkp-metaheuristics/visualization/index.html",
-    "main.16702e02.css.map": "/mkp-metaheuristics/visualization/static/css/main.16702e02.css.map",
-    "main.f7675e7d.js.map": "/mkp-metaheuristics/visualization/static/js/main.f7675e7d.js.map",
-    "453.dd6471ed.chunk.js.map": "/mkp-metaheuristics/visualization/static/js/453.dd6471ed.chunk.js.map"
+    "main.css": "/mkp-metaheuristics/static/css/main.16702e02.css",
+    "main.js": "/mkp-metaheuristics/static/js/main.601ea145.js",
+    "static/js/453.dd6471ed.chunk.js": "/mkp-metaheuristics/static/js/453.dd6471ed.chunk.js",
+    "index.html": "/mkp-metaheuristics/index.html",
+    "main.16702e02.css.map": "/mkp-metaheuristics/static/css/main.16702e02.css.map",
+    "main.601ea145.js.map": "/mkp-metaheuristics/static/js/main.601ea145.js.map",
+    "453.dd6471ed.chunk.js.map": "/mkp-metaheuristics/static/js/453.dd6471ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16702e02.css",
-    "static/js/main.f7675e7d.js"
+    "static/js/main.601ea145.js"
   ]
 }
